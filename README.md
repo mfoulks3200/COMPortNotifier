@@ -4,12 +4,12 @@ A smol utility that sends you a notification every time a COM port is connected,
 
 ## Features
 - Configurable connect/disconnect notifications
-
-**Video Here**
-
 - Start on boot option
 - Full list of connected devices
     - Port status (in use/not in use)
     - PuTTY integration
 
-**Video Here**
+#### Notifications
+![Notifications](https://i.imgur.com/LEVDisW.gif)
+#### PuTTY Integration
+![PuTTY Integration](https://i.imgur.com/nFD293h.gif)
